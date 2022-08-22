@@ -1,0 +1,23 @@
+= Покупка билетов на сайте rzd.ru
+:description: Инструкция по покупке билетов на сайте rzd.ru 
+:hide-uri-scheme: https://www.rzd.ru
+
+Перед покупкой рекомендуется ознакомиться с https://www.rzd.ru/ru/9285[правилами покупки и возврата билетов].
+
+Чтобы купить билеты:
+[start=1]
+. Зарегистрируйтесь на сайте https://www.rzd.ru. 
+. Войдите в личный кабинет на сайте https://www.rzd.ru. 
+. Выберите рейс, класс обслуживания и места.
+. Введите информацию о пассажирах.
+. Оформите заказ... TBD
+
+include::01_register.adoc[]
+
+include::02_signin.adoc[]
+
+include::03_select.adoc[]
+
+include::04_enter_passengers.adoc[]
+
+include::05_pay.adoc[]
